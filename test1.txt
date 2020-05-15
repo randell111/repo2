@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is BEF7-8CE4
-
- Directory of C:\Users\12252\Desktop\MyProject
-
-05/15/2020  02:00 PM    <DIR>          .
-05/15/2020  02:00 PM    <DIR>          ..
-05/15/2020  02:00 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  101,523,279,872 bytes free
+change 1
